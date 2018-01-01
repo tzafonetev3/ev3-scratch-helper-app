@@ -1,9 +1,4 @@
-﻿body{
-	margin: 0;
-	padding: 0;
-	background-color: #f1e9f3;
-	direction: rtl;
-}
+﻿body{direction: rtl; margin:0;padding:0;background-color:#f1e9f3;}
 img {border:0px;}
 .feed-container{font-size:12px;border:1px solid #CCC;}
 .feed-container .header{margin:0px;padding:5px 5px 5px 5px;color:#fff;background-color:#9257a6;}
